@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.container{
+  margin-top: 10%;
+}
+h1{
+  font-size: 100px;
+  font-style: oblique;
+  font-display: flex;
+  color: white;
+}
+.btn{
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+  margin-left: 80%;
+}
+body{
+  background-color: black;
+}
