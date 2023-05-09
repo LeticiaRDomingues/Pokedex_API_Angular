@@ -8,12 +8,36 @@ h1{
   font-display: flex;
   color: white;
 }
-.btn{
-  font-size: 25px;
-  font-style: normal;
-  font-weight: bold;
-  margin-left: 80%;
+h2{
+  margin-top: 10%;
+  margin-bottom: 20%;
+  font-size: 50px;
+  color: rgb(226, 255, 246);
 }
+p{
+  margin-left: 5%;
+  font-size: 25px;
+  color: rgb(231, 227, 227);
+}
+
 body{
   background-color: black;
+}
+
+.btn-custom {
+  margin-top: 5%;
+  background-color: #ff0000;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.btn-custom:hover {
+  background-color: #cc0000;
+}
+
+.card
+{
+background-color: #cc0000;
 }
